@@ -1,4 +1,4 @@
-# CAP: An Advanced No-reference Quality Assessment Method for AI-generated 3D Meshes
+# CAP: An Advanced No-Reference Quality Assessment Method for AI-Generated 3D Meshes
 
 Yingjie Zhou, Farong Wen, Zicheng Zhang, Yanwei Jiang, Jun Jia, Xiaohong Liu, Xiongkuo Min, Guangtao Zhai
 
